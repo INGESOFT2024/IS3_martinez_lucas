@@ -21,7 +21,7 @@ const chartDependencia = new Chart(ctx, {
 });
 
 const getEstadisticas = async () => {
-    const url = '/chart_tarea/API/detalle/estadisticas';
+    const url = '/IS3_martinez_lucas/API/detalle/estadisticas';
     const config = { method: "GET" };
     const response = await fetch(url, config);
     const data = await response.json();
@@ -52,3 +52,4 @@ const generateRandomColor = () => {
 };
 
 btnactualizar.addEventListener('click', getEstadisticas);
+

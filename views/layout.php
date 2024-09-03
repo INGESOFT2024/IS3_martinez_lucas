@@ -37,6 +37,9 @@
                                 <a class="dropdown-item nav-link text-white " href="/aplicaciones/nueva"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Subitem</a>
                             </li>
                             <li>
+                                <a class="dropdown-item nav-link text-white " href="/IS3_martinez_lucas/dependencias/estadisticas"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Subitem2</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-item nav-link text-white " href="/IS3_martinez_lucas/dependencias/estadisticas"><i class="ms-lg-0 ms-2 bi bi-plus-circle me-2"></i>Dependencias</a>
                             </li>
                     
